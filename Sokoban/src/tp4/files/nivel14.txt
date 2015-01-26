@@ -1,0 +1,13 @@
+http://www.sourcecode.se/sokoban/levelgraph.php?file=AlbertoG1-1.slc&page=0
+w w w f f f w w w w w 
+w f w w w w w f f f w 
+w f f f f w f f w f w 
+w f f f f f f f f w w 
+w w f f w d f f w w o 
+w f f f w w f d w o o
+w w d f f w f w w o o
+o w w f f f f w o o o
+o o w w w w w w o o o
+s 32
+b 37 47 59
+H 36 Jorge Fernandes

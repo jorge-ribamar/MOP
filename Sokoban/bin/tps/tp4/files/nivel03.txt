@@ -1,0 +1,12 @@
+http://games.co.za/funny-quest.html L3
+w w w w w w w w w w
+w d f f w w w f w w
+w d f f w w f f f w
+w d f f f f f f f w
+w d f f f f f f f w
+w d f f w w w f f w
+w f f f f f f f f w
+w w w w w w w w w w
+s 18
+b 37 38 48 53 58
+H 37 Jorge

@@ -1,0 +1,19 @@
+http://www.sourcecode.se/sokoban/levelgraph.php?file=AlbertoG1-1.slc&page=0
+w w w w w w w w w w o o o o o o o o o o o o o 
+w f f f f f w o o w w w o o w w w w o o o o o 
+w f f f f f d f f f f w w w w f f w o o o o o 
+w f w f w w w w w f f f f f f f f w w w w o o 
+w f w f w d f d w f f f w w f f f w f f w o o  
+w f w f w d f d w w w f w w w f f d f f w w o 
+w f w f w w f f w w f f f f f f f f f f f w o 
+w f w f f w f f w d f f w w w f f w f f w w o 
+w f f f w w f f w w f w w d w f f f f f f w o 
+w f d f f w f f w d f f w f w w w w f f f w w
+w d f d f w f f w w f f f f f f f f f w f f w 
+w f d f w w f f f f f f w f f f f f f f f w w 
+w d f d f w f f f f w w w f f w w w w w w w o 
+w f d f f w w w f f f f f f w w o o o o o o o
+w w w f f d d w w w w w w w w o o o o o o o o 
+o o w w w w w w o o o o o o o o o o o o o o o 
+s 252
+b 79 83 109 127 135 153 156 178 180 202 227 246 248 262 270 273 286 290
